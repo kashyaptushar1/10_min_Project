@@ -166,7 +166,7 @@ input::placeholder{
     margin-top:1vw;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     
 #page1{
     position: relative;
