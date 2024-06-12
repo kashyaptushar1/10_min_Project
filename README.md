@@ -1,6 +1,6 @@
 
 
-
+## Hello World , I am Tushar Kashyap
 # Interactive Webpage with Video Background and Music Modal
 
 This project is a fun interactive webpage that features a video background, a name input prompt, and a modal to control music playback. The user is prompted to enter their name and answer questions in a playful way.
@@ -168,7 +168,7 @@ To run this project, simply open the `index.html` file in a web browser. Ensure 
 
 ## License
 
-This project is open source and available under the [MIT License]).
+This project is open source and available under the [MIT License].
 ```
 
 You can create these files in your project directory with the provided content, ensuring the `vid.mp4` and `aud3.mp3` files are included in the same directory as `index.html`. This setup will create a functional interactive webpage with the specified features.
