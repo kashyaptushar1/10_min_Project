@@ -1,8 +1,3 @@
-Sure! Here is the complete `README.md` file with explanations for each line of the HTML, CSS, and JavaScript.
-
-### `README.md`
-
-```markdown
 # Interactive Webpage with Video Background and Music Modal
 
 This project is a fun interactive webpage that features a video background, a name input prompt, and a modal to control music playback. The user is prompted to enter their name and answer questions in a playful way.
@@ -76,7 +71,7 @@ The `index.html` file contains the structure of the webpage. Here is the detaile
     <script src="script.js"></script>
 </body>
 </html>
-```
+
 
 ### Explanation
 
