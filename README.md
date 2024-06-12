@@ -172,3 +172,9 @@ This project is open source and available under the [MIT License].
 ```
 
 You can create these files in your project directory with the provided content, ensuring the `vid.mp4` and `aud3.mp3` files are included in the same directory as `index.html`. This setup will create a functional interactive webpage with the specified features.
+## Output
+
+
+
+https://github.com/kashyaptushar1/10_min_Project/assets/127180405/8dd631c5-ddc7-48c7-b49d-2cdf1329cce2
+
